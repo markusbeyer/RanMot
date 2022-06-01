@@ -1,6 +1,6 @@
 # RanMot (Random Motivation)
 
-RanMot is a motivating program, randomly opening one of 17 motivational movies and logging the choice in a text file automatically.
+RanMot is a motivating program, randomly opening one of 17 motivational movies and logging the choice in a text file automatically. To prove the randomness of choise, it logs specifically everytime the 17th motivational movie was chosen, and when anything else was.
 
 ## Installation
 
